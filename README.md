@@ -53,6 +53,11 @@ El juego responde a eventos de teclado para mover a Pac-Man en cuatro direccione
 ## Conclusión
 Este código implementa un clon de Pac-Man con funcionalidades clave como el movimiento de fantasmas, detección de colisiones y una pantalla de inicio. Se puede mejorar agregando más niveles y aumentando la inteligencia de los fantasmas.
 
+## Ejecucion del VideoJuego
+![image](https://github.com/user-attachments/assets/2125824c-62e7-42aa-a24d-78850e24c00a)
+![image](https://github.com/user-attachments/assets/0eb7dd6a-550b-44ad-a315-469162e2879e)
+![image](https://github.com/user-attachments/assets/e1638dc6-7658-4114-a941-061a1d9215f2)
+
 ## Licencia
 ```
 MIT License
@@ -65,4 +70,5 @@ El aviso de copyright anterior y este aviso de permiso se incluirán en todas la
 
 EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O IMPLÍCITA, INCLUYENDO PERO NO LIMITADO A GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN PROPÓSITO PARTICULAR Y NO INFRACCIÓN. EN NINGÚN CASO LOS AUTORES O TITULARES DEL COPYRIGHT SERÁN RESPONSABLES POR NINGUNA RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O CUALQUIER OTRO MOTIVO, DERIVADO DE O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTROS TRATOS EN EL SOFTWARE.
 ```
+
 
