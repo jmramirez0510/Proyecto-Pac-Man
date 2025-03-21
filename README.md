@@ -1,6 +1,6 @@
 # Proyecto-Pac-Man
-Introducción
-Este documento describe el funcionamiento del código de Pac-Man implementado en Pygame. Se explican los módulos utilizados, las funciones clave y el comportamiento general del juego.
+
+Este documento describe el funcionamiento del código de Pac-Man implementado en Pygame. Se explican los módulos utilizados, las funciones clave y el comportamiento general del juego./n
 Dependencias
 El código usa las siguientes bibliotecas:
 •	pygame: Para manejar los gráficos y eventos del juego.
