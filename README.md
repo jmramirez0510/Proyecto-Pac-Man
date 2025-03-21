@@ -1,6 +1,8 @@
 # Documentación del Código de Pac-Man en Pygame
 
 ## Introducción
+Este trabajo fue realizado por **Juan Miguel Ramírez** y **Roberth Mauricio López**, estudiantes del programa de **Ingeniería en Sistemas** de **séptimo semestre** de la **Universidad Santiago de Cali**. 
+
 Este documento describe el funcionamiento del código de Pac-Man implementado en Pygame. Se explican los módulos utilizados, las funciones clave y el comportamiento general del juego.
 
 ## Dependencias
@@ -50,3 +52,17 @@ El juego responde a eventos de teclado para mover a Pac-Man en cuatro direccione
 
 ## Conclusión
 Este código implementa un clon de Pac-Man con funcionalidades clave como el movimiento de fantasmas, detección de colisiones y una pantalla de inicio. Se puede mejorar agregando más niveles y aumentando la inteligencia de los fantasmas.
+
+## Licencia
+```
+MIT License
+
+Copyright (c) 2025 Juan Miguel Ramírez y Roberth Mauricio López
+
+Se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para utilizar el Software sin restricción, incluyendo sin limitación los derechos a usar, copiar, modificar, fusionar, publicar, distribuir, sublicenciar y/o vender copias del Software, y a permitir a las personas a las que se les proporcione el Software a hacer lo mismo, sujeto a las siguientes condiciones:
+
+El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
+
+EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O IMPLÍCITA, INCLUYENDO PERO NO LIMITADO A GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN PROPÓSITO PARTICULAR Y NO INFRACCIÓN. EN NINGÚN CASO LOS AUTORES O TITULARES DEL COPYRIGHT SERÁN RESPONSABLES POR NINGUNA RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O CUALQUIER OTRO MOTIVO, DERIVADO DE O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTROS TRATOS EN EL SOFTWARE.
+```
+
