@@ -5,12 +5,21 @@ Este trabajo fue realizado por **Juan Miguel Ramírez** y **Roberth Mauricio Ló
 
 Este documento describe el funcionamiento del código de Pac-Man implementado en Pygame. Se explican los módulos utilizados, las funciones clave y el comportamiento general del juego.
 
-## Dependencias
+## Dependencias e Instalacion
 El código usa las siguientes bibliotecas:
 - `pygame`: Para manejar los gráficos y eventos del juego.
 - `random`: Para la aleatoriedad en los movimientos de los fantasmas.
 - `time`: Para manejar tiempos de espera.
 - `sys`: Para gestionar la salida del programa.
+
+Instalación
+
+Para ejecutar el juego, es necesario instalar Pygame. Para ello, ejecuta el siguiente comando en la terminal:
+
+### `pip install pygame`
+
+Una vez instalado, puedes ejecutar el juego con:
+### `python pacman.py`
 
 ## Configuración del Juego
 - **Dimensiones:** El juego se ejecuta en una ventana de `1000x600` píxeles, mientras que la pantalla de inicio es de `800x600` píxeles.
